@@ -16,5 +16,4 @@ npm run build
 ```
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
-git@github.com:a382775086/-.git
- ![image](https://git@github.com:a382775086/-/static/pause.png)
+ ![image](https://git@github.com:a382775086/musicPlayer/static/pause.png)
