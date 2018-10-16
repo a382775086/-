@@ -16,4 +16,4 @@ npm run build
 ```
 
 
- ![image](https://git@github.com:a382775086/musicPlayer/static/pause.png)
+![Image text(https://raw.githubusercontent.com/a382775086/musicPlayer/master/static/pause.png)
