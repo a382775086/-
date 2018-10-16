@@ -36,8 +36,13 @@
                                               演示图
                                               
                                               
-![Image text](https://raw.githubusercontent.com/a382775086/musicPlayer/master/readme/c.png)    
+![Image text](https://raw.githubusercontent.com/a382775086/musicPlayer/master/readme/c.png) 
+
+
 ![Image text](https://raw.githubusercontent.com/a382775086/musicPlayer/master/readme/d.png)   
+
+
 ![Image text](https://raw.githubusercontent.com/a382775086/musicPlayer/master/readme/e.png)   
+
 
 ![Image text](https://raw.githubusercontent.com/a382775086/musicPlayer/master/b.gif)
