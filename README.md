@@ -1,6 +1,9 @@
  甄(real)音悦
 ===
 
+项目介绍：
+----
+基于Vue2.x vue-router vue-element的单页面音乐播放器
 
 实现功能：
 -------
@@ -31,5 +34,8 @@
 
 
                                               演示图
+                                              
+                                              
+                                              
 
 ![Image text](https://raw.githubusercontent.com/a382775086/musicPlayer/master/b.gif)
