@@ -24,8 +24,8 @@
 
 项目运行：
 -------
-*npm i
-*npm run dev
+* npm i
+* npm run dev
 
 
 
